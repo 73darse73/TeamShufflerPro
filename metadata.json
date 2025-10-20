@@ -1,0 +1,5 @@
+{
+  "name": "Team Shuffler Pro",
+  "description": "An intelligent application to divide people into groups. It includes features to keep specific individuals in separate groups and uses Gemini to generate fun, thematic team names for an engaging experience.",
+  "requestFramePermissions": []
+}
